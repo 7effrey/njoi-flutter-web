@@ -19,3 +19,8 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+.flutter-plugins
+.flutter-plugins-dependencies
+flutter_njoi_web.iml
+.idea
+flutter_web_testing_android.iml
