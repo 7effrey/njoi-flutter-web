@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_njoi_web/core/app_path.dart' as app_path;
-import 'package:flutter_njoi_web/core/theme/color_constants.dart';
 import 'package:flutter_njoi_web/presentation/bloc/test/test_cubit.dart';
 import 'package:flutter_njoi_web/presentation/bloc/test/test_state.dart';
 import 'package:url_launcher/url_launcher.dart';
